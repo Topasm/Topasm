@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topasm&show_icons=true&theme=Gradient)](https://github.com/Topasm/github-readme-stats)
-[![Topasm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topasm&show_icons=true&theme=Gradient)](https://github.com/Topasm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Topasm&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Topasm/github-readme-stats)
+[![Topasm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Topasm&show_icons=true&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Topasm/github-readme-stats)
